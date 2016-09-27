@@ -1,0 +1,1 @@
+# js-rating-google-review
